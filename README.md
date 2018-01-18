@@ -1,2 +1,2 @@
 # codingbat
-Solutions to Codingbat python problems
+Solutions to Codingbat Python problems
